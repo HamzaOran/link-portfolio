@@ -8,11 +8,15 @@ function LinkCard({
   title,
   framework,
   cssFrame,
+  deployImg,
+  frameLang,
 }: {
   href: string;
   title: string;
   framework?: string;
   cssFrame?: string;
+  deployImg?: string;
+  frameLang?: string;
 }) {
   return (
     <a
@@ -43,6 +47,30 @@ function LinkCard({
             />
           </div>
         )}
+
+        {frameLang && (
+          <div className="w-10 h-10 ml-2">
+            <Image
+              className="rounded-lg"
+              alt={title}
+              src={frameLang}
+              width={40}
+              height={40}
+            />
+          </div>
+        )}
+
+        {deployImg && (
+          <div className="w-10 h-10 ml-2">
+            <Image
+              className="rounded-lg"
+              alt={title}
+              src={deployImg}
+              width={40}
+              height={40}
+            />
+          </div>
+        )}
         <h2 className="flex justify-center items-center font-bold text-lg w-full text-center text-black -ml-10">
           {title}
         </h2>
@@ -53,7 +81,7 @@ function LinkCard({
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center w-full mb-96 mx-auto px-8 ">
+    <div className="flex flex-col items-center justify-center w-full  mx-auto px-8 ">
       <Image
         className="rounded-full"
         alt={data.name}
