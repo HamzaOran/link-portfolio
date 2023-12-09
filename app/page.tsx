@@ -61,7 +61,7 @@ export default function Home() {
         width={96}
         height={96}
       />
-      <h1 className="font-bold mt-4 text-3xl mb-8 bg-none text-white">
+      <h1 className="font-bold mt-4 text-5xl mb-8 bg-none text-white">
         {data.name}
       </h1>
       {data.links.map((link) => (
