@@ -10,6 +10,7 @@ function LinkCard({
   cssFrame,
   deployImg,
   frameLang,
+  database,
 }: {
   href: string;
   title: string;
@@ -17,6 +18,7 @@ function LinkCard({
   cssFrame?: string;
   deployImg?: string;
   frameLang?: string;
+  database?: string;
 }) {
   return (
     <a
@@ -66,6 +68,18 @@ function LinkCard({
               className="rounded-lg"
               alt={title}
               src={deployImg}
+              width={40}
+              height={40}
+            />
+          </div>
+        )}
+
+        {database && (
+          <div className="w-10 h-10 ml-2">
+            <Image
+              className="rounded-lg"
+              alt={title}
+              src={database}
               width={40}
               height={40}
             />
