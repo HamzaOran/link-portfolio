@@ -1,6 +1,6 @@
 {
   "name": "Projects",
-  "avatar": "https://pbs.twimg.com/profile_images/1733507687546032128/f4yrm9xy_400x400.jpg",
+  "avatar": "https://pbs.twimg.com/profile_images/1748598280911532032/rBXcxCB4_400x400.png",
   "links": [
     {
       "title": "Personal Website",
@@ -18,11 +18,29 @@
       "frameLang": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png"
     },
     {
-      "title": "Dummy Api App",
+      "title": "Dummy API App",
       "href": "https://dummyapiexample.vercel.app/",
       "framework": "https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg",
       "cssFrame": "https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg",
       "frameLang": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png"
+    },
+    {
+      "title": "Data Grid Page",
+      "href": "https://next-nest-client.vercel.app/",
+      "framework": "https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg",
+      "cssFrame": "https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg",
+      "frameLang": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png",
+      "database": "https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png"
+
+    },
+    {
+      "title": "Star Wars API App",
+      "href": "https://dummyapiexample.vercel.app/",
+      "framework": "https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg",
+      "cssFrame": "https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg",
+      "frameLang": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png",
+      "database": "https://pbs.twimg.com/profile_images/618131103509909504/VQLBJ0TR_400x400.png"
+      
     },
     {
       "title": "Recipe App",
