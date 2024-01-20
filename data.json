@@ -35,7 +35,7 @@
     },
     {
       "title": "Star Wars API App",
-      "href": "https://dummyapiexample.vercel.app/",
+      "href": "https://starwars-graphql.vercel.app/",
       "framework": "https://pbs.twimg.com/profile_images/1565710214019444737/if82cpbS_400x400.jpg",
       "cssFrame": "https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg",
       "frameLang": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png",
