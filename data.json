@@ -5,10 +5,10 @@
     {
       "title": "Personal Website",
       "href": "https://hamzaoran.vercel.app/",
-      "framework": "https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png",
+      "framework": "https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png",
       "cssFrame": "https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg",
       "frameLang": "https://pbs.twimg.com/profile_images/1509903834151325697/1Ked07gR_400x400.jpg",
-      "deployImg": "https://pbs.twimg.com/profile_images/1357372719533350919/6Kpqc1nI_400x400.jpg"
+      "deployImg": "https://pbs.twimg.com/profile_images/1752267180966645760/WCHD7AES_400x400.jpg"
     },
     {
       "title": "Image Gallery",
@@ -31,7 +31,6 @@
       "cssFrame": "https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg",
       "frameLang": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png",
       "database": "https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png"
-
     },
     {
       "title": "Star Wars API App",
@@ -40,12 +39,11 @@
       "cssFrame": "https://pbs.twimg.com/profile_images/1730334391501488129/G0R0sjHH_400x400.jpg",
       "frameLang": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png",
       "database": "https://pbs.twimg.com/profile_images/618131103509909504/VQLBJ0TR_400x400.png"
-      
     },
     {
       "title": "Recipe App",
       "href": "https://yemeks.vercel.app/",
-      "framework": "https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png",
+      "framework": "https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png",
       "cssFrame": "https://pbs.twimg.com/profile_images/378800000696557796/5a1a52b93e06a59b0dcafa09ceda1319_400x400.jpeg",
       "frameLang": "https://pbs.twimg.com/profile_images/1509903834151325697/1Ked07gR_400x400.jpg",
       "database": "https://pbs.twimg.com/profile_images/1212161876450086912/ruL7qZEl_400x400.jpg"
@@ -53,8 +51,8 @@
     {
       "title": "Interest Rate Calculator",
       "href": "https://faaz.vercel.app/",
-      "framework": "https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png",
-      "cssFrame": "https://pbs.twimg.com/profile_images/1482375747809460229/eSjsD5CQ_400x400.jpg",
+      "framework": "https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png",
+      "cssFrame": "https://pbs.twimg.com/profile_images/1786172361235931136/np9x7-FN_400x400.jpg",
       "frameLang": "https://pbs.twimg.com/profile_images/1509903834151325697/1Ked07gR_400x400.jpg"
     },
     {
@@ -67,21 +65,21 @@
     {
       "title": "Tic-Tac-Toe Game",
       "href": "https://9tas.vercel.app/",
-      "framework": "https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png",
+      "framework": "https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png",
       "cssFrame": "https://pbs.twimg.com/profile_images/378800000696557796/5a1a52b93e06a59b0dcafa09ceda1319_400x400.jpeg",
       "frameLang": "https://pbs.twimg.com/profile_images/1509903834151325697/1Ked07gR_400x400.jpg"
     },
     {
       "title": "Timezone Dashboard",
       "href": "https://taymzones.vercel.app/",
-      "framework": "https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png",
+      "framework": "https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png",
       "cssFrame": "https://pbs.twimg.com/profile_images/378800000696557796/5a1a52b93e06a59b0dcafa09ceda1319_400x400.jpeg",
       "frameLang": "https://pbs.twimg.com/profile_images/1509903834151325697/1Ked07gR_400x400.jpg"
     },
     {
       "title": "Hangman Game",
       "href": "https://hangitman.vercel.app/",
-      "framework": "https://pbs.twimg.com/profile_images/446356636710363136/OYIaJ1KK_400x400.png",
+      "framework": "https://pbs.twimg.com/profile_images/1785867863191932928/EpOqfO6d_400x400.png",
       "cssFrame": "https://pbs.twimg.com/profile_images/378800000696557796/5a1a52b93e06a59b0dcafa09ceda1319_400x400.jpeg",
       "frameLang": "https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png"
     }
